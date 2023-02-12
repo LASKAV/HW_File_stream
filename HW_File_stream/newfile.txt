@@ -1,0 +1,6 @@
+Task 1: A text file is given. A new file must be created to which all words consisting of at least seven letters must be copied from the source file.
+Task 2: A text file is given. You have to rewrite the lines of the text file into a different file. The order of lines in the second file must match the order of lines in the given file.
+Task 3: Create and initialize an array of 4 objects of type Fraction, and write the array to the file in binary mode.
+Then create another array of 4 Fraction type objects and read the objects from the file into the array.
+Problem 4: Create and initialize an array of 4 Fraction objects, and write the array to the file in binary mode.
+Then create an object of Fraction type and read data from the penultimate object of the array into that object. Use file positioning.
